@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9f1ac8b.css",
-    "main.js": "/static/js/main.081915d9.js",
-    "static/media/HelveticaNeueLTPro-Lt.otf": "/static/media/HelveticaNeueLTPro-Lt.050c2978ce4f59d0c494.otf",
-    "static/media/HelveticaNeueLTPro-Md.otf": "/static/media/HelveticaNeueLTPro-Md.750a04f212242fdbb1e5.otf",
-    "index.html": "/index.html",
-    "main.b9f1ac8b.css.map": "/static/css/main.b9f1ac8b.css.map",
-    "main.081915d9.js.map": "/static/js/main.081915d9.js.map"
+    "main.css": "/fila/static/css/main.4c33f4c8.css",
+    "main.js": "/fila/static/js/main.98cf49b2.js",
+    "static/media/HelveticaNeueLTPro-Lt.otf": "/fila/static/media/HelveticaNeueLTPro-Lt.050c2978ce4f59d0c494.otf",
+    "static/media/HelveticaNeueLTPro-Md.otf": "/fila/static/media/HelveticaNeueLTPro-Md.750a04f212242fdbb1e5.otf",
+    "index.html": "/fila/index.html",
+    "main.4c33f4c8.css.map": "/fila/static/css/main.4c33f4c8.css.map",
+    "main.98cf49b2.js.map": "/fila/static/js/main.98cf49b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9f1ac8b.css",
-    "static/js/main.081915d9.js"
+    "static/css/main.4c33f4c8.css",
+    "static/js/main.98cf49b2.js"
   ]
 }
