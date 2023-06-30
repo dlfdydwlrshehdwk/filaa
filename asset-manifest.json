@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/filaa/static/css/main.e316f41f.css",
+    "main.css": "/filaa/static/css/main.64040f2a.css",
     "main.js": "/filaa/static/js/main.0470f25f.js",
     "static/media/HelveticaNeueLTPro-Lt.otf": "/filaa/static/media/HelveticaNeueLTPro-Lt.050c2978ce4f59d0c494.otf",
     "static/media/HelveticaNeueLTPro-Md.otf": "/filaa/static/media/HelveticaNeueLTPro-Md.750a04f212242fdbb1e5.otf",
     "index.html": "/filaa/index.html",
-    "main.e316f41f.css.map": "/filaa/static/css/main.e316f41f.css.map",
+    "main.64040f2a.css.map": "/filaa/static/css/main.64040f2a.css.map",
     "main.0470f25f.js.map": "/filaa/static/js/main.0470f25f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e316f41f.css",
+    "static/css/main.64040f2a.css",
     "static/js/main.0470f25f.js"
   ]
 }
